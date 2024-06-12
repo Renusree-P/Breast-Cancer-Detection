@@ -6,7 +6,7 @@ Breast cancer is a serious problem increasing at a rapid rate among women all ov
  - [Objectives](#objectives)
  - [Dataset](#dataset)
  - [Methodology](#methodology)
-    - [1.Data Collection](##data-collection)
+    - [1.Data Collection](#1_data-collection)
     - [2.Data Preprocessing:]
     - [3.Data Inspection:]
     - [4.Exploratory Data Analysis:]
@@ -32,7 +32,7 @@ This Breast Cancer dataset is taken from Kaggle
 
 ## Methodology
 The model was developed using the following steps:
-#### 1.Data Collection:
+#### 1. Data Collection:
 - For getting the required data, searched through many sources
 - ultimately settled with Kaggle dataset
 
