@@ -59,3 +59,18 @@ This model can be used for earlier detection of the breast cancer. Between the t
 - Integrate the model with the Electronic Health Records (ERH) to implement in the real-world
 
 ## Image Classification
+#### Objective
+To classify the cells as cancerous or not by using Image classification 
+
+#### Dataset
+- The dataset was obtained from Kaggle
+  - [Download here](https://www.kaggle.com/code/damodharrao/starter-breast-histopathology-images-41da081a-1/input)
+
+#### Implementation
+- Create a model
+- Train the model so that it can distingush the images as positive or negative to cancer
+- Test the model for accuracy
+
+#### Future work
+This model is not accurately reading the images. We are working on this model.
+     
