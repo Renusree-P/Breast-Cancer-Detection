@@ -6,7 +6,7 @@ Breast cancer is a serious problem increasing at a rapid rate among women all ov
  - [Objectives](#objectives)
  - [Dataset](#dataset)
  - [Methodology](#methodology)
-    - [1.Data Collection:](#1.data-collection)
+    - [1.Data Collection](#data-collection)
     - [2.Data Preprocessing:]
     - [3.Data Inspection:]
     - [4.Exploratory Data Analysis:]
