@@ -4,6 +4,15 @@ Breast cancer is a serious problem increasing at a rapid rate among women all ov
 
 ## Table of Contents
  - [Objectives](#objectives)
+ - [Dataset](#dataset)
+ - [Methodology](#methodology)
+    - [1.Data Collection:](#1.data-collection)
+    - [2.Data Preprocessing:]
+    - [3.Data Inspection:]
+    - [4.Exploratory Data Analysis:]
+    - [5.Data Transformation:]
+    - [6.Model training:]
+    - [7.Model Evaluation]
 ## Objectives
 1) To identify if a person has cancer or not
 2) To make a model to predict if the patient is cancer prone or not
