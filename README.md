@@ -3,7 +3,7 @@
 Breast cancer is a serious problem increasing at a rapid rate among women all over the world. Early detection of breast cancer will save lot of lives. So, let's create a model using machine learning algorithms to detect breast cancer at early stages.
 
 ## Table of Contents
- - [Objectives](objectives)
+ - [Objectives](#objectives)
 ## Objectives
 1) To identify if a person has cancer or not
 2) To make a model to predict if the patient is cancer prone or not
