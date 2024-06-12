@@ -17,10 +17,10 @@ Breast cancer is a serious problem increasing at a rapid rate among women all ov
  - [Challenges](#challenges)
  - [Future work](#future-work)
  - [Image Classification](#image-classification)
-    - [Objective](#objective)
-    - [Dataset](#dataset)
-    - [Implementation](#implementation)
-    - [Future work](#future-work)
+    - [Objective of Image Classification](#objective-of-image-classification)
+    - [Dataset of Image Classification](#dataset-of-image-classification)
+    - [Implementation of Image Classification](#implementation-of-image-classification)
+    - [Future work of Image Classification](#future-work-of-image-classification)
 ## Objectives
 1) To identify if a person has cancer or not
 2) To make a model to predict if the patient is cancer prone or not
@@ -77,18 +77,18 @@ This model can be used for earlier detection of the breast cancer. Between the t
 - Integrate the model with the Electronic Health Records (ERH) to implement in the real-world
 
 ## Image Classification
-#### Objective
+#### Objective of Image Classification
 To classify the cells as cancerous or not by using Image classification 
 
-#### Dataset
+#### Dataset of Image Classification
 - The dataset was obtained from Kaggle
   - [Download here](https://www.kaggle.com/code/damodharrao/starter-breast-histopathology-images-41da081a-1/input)
 
-#### Implementation
+#### Implementation of Image Classification
 - Create a model
 - Train the model so that it can distingush the images as positive or negative to cancer
 - Test the model for accuracy
 
-#### Future work
+#### Future work of Image Classification
 This model is not accurately reading the images. We are working on this model.
      
